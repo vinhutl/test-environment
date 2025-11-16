@@ -1,0 +1,59 @@
+{
+	"storyName": "vs tabi (again)",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"last-memories",
+			"gf",
+			[
+				120,
+				120,
+				120
+			]
+		],
+		[
+			"embrace",
+			"gf",
+			[
+				146,
+				80,
+				40
+			]
+		],
+		[
+			"freaking-out-alone",
+			"gfscary",
+			[
+				86,
+				0,
+				33
+			]
+		],
+		[
+			"judas-kiss",
+			"tabi-crazy",
+			[
+				26,
+				20,
+				35
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "lol",
+	"hiddenUntilUnlocked": false
+}

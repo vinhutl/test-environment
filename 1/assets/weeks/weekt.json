@@ -1,0 +1,50 @@
+{
+	"storyName": "vs tabi",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "1",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"my-battle",
+			"tabi",
+			[
+				40,
+				40,
+				100
+			]
+		],
+		[
+			"last-chance",
+			"tabi",
+			[
+				6,
+				13,
+				53
+			]
+		],
+		[
+			"genocide",
+			"tabi-crazy",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "tabi"
+}

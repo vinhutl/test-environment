@@ -1,0 +1,206 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Bitto's zoom event",
+						"custom",
+						"1.6,0.01,expoout"
+					]
+				]
+			],
+			[
+				192.307692307692,
+				[
+					[
+						"BlackFlash",
+						"5",
+						"5"
+					],
+					[
+						"Bitto's zoom event",
+						"custom",
+						"1.3,6,expoout"
+					]
+				]
+			],
+			[
+				19697.1153846154,
+				[
+					[
+						"Change Character",
+						"dad",
+						"clear"
+					],
+					[
+						"Change Character",
+						"bf",
+						"tabi and gf (gf)"
+					]
+				]
+			],
+			[
+				25855.7692307692,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tabi and gf (tabi)"
+					],
+					[
+						"Change Character",
+						"bf",
+						"clear"
+					]
+				]
+			],
+			[
+				31995.1923076923,
+				[
+					[
+						"Change Character",
+						"bf",
+						"tabi and gf (gf)"
+					],
+					[
+						"Change Character",
+						"dad",
+						"clear"
+					]
+				]
+			],
+			[
+				44081.7307692308,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tabi and gf (tabi)"
+					],
+					[
+						"Change Character",
+						"dad",
+						"clear"
+					]
+				]
+			],
+			[
+				50235.5769230769,
+				[
+					[
+						"Change Character",
+						"bf",
+						"tabi and gf (gf)"
+					],
+					[
+						"Change Character",
+						"dad",
+						"clear"
+					]
+				]
+			],
+			[
+				56418.2692307692,
+				[
+					[
+						"Change Character",
+						"bf",
+						"clear"
+					],
+					[
+						"Change Character",
+						"dad",
+						"tabi and gf (tabi)"
+					]
+				]
+			],
+			[
+				73846.1538461539,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tabi and gf (tabi)"
+					]
+				]
+			],
+			[
+				81225.9615384615,
+				[
+					[
+						"Change Character",
+						"bf",
+						"tabi and gf (gf)"
+					],
+					[
+						"Change Character",
+						"dad",
+						"clear"
+					]
+				]
+			],
+			[
+				87375,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tabi and gf (tabi)"
+					],
+					[
+						"Change Character",
+						"bf",
+						"clear"
+					]
+				]
+			],
+			[
+				93519.2307692308,
+				[
+					[
+						"Change Character",
+						"dad",
+						"clear"
+					],
+					[
+						"Change Character",
+						"bf",
+						"tabi and gf (gf)"
+					]
+				]
+			],
+			[
+				105615.384615385,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tabi and gf (tabi)"
+					],
+					[
+						"Change Character",
+						"bf",
+						"clear"
+					]
+				]
+			],
+			[
+				123076.923076923,
+				[
+					[
+						"Change Character",
+						"bf",
+						"tabi and gf (gf)"
+					],
+					[
+						"Change Character",
+						"dad",
+						"clear"
+					]
+				]
+			]
+		]
+	}
+}

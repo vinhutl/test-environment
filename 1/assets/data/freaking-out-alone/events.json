@@ -1,0 +1,71 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Bitto's zoom event",
+						"custom",
+						"1.5,8,expoout"
+					],
+					[
+						"BlackFlash",
+						"5",
+						"5"
+					]
+				]
+			],
+			[
+				8400,
+				[
+					[
+						"Bitto's zoom event",
+						"custom",
+						"1.3,2,expoout"
+					]
+				]
+			],
+			[
+				19500,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gfscare"
+					],
+					[
+						"Change Character",
+						"bf",
+						"tabi"
+					],
+					[
+						"Bitto's zoom event",
+						"custom",
+						"1.1,0.01,expoout"
+					],
+					[
+						"WhiteFlash",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				115500,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dd"
+					],
+					[
+						"WhiteFlash",
+						"1",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}
